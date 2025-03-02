@@ -14,3 +14,6 @@ This project is a beginner-friendly example of how you can use web technologies 
 - HTML: The markup language used to create the structure of the web page.
 - CSS: Styling for the to-do list, making the app visually appealing and easy to navigate.
 - JavaScript: Provides the functionality of the to-do list (adding, deleting, and marking tasks).
+
+### Preview
+<img width="518" alt="Screenshot 2025-03-02 at 7 22 11 pm" src="https://github.com/user-attachments/assets/b2431969-4415-4d5a-8402-1ee983b813d7" />
