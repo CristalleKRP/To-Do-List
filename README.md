@@ -1,4 +1,4 @@
-# To-Do-List
+# Task Management Tool 
 This project is a basic web-based to-do list application built using HTML, CSS, and JavaScript.
 
 ## 📋Project Overview
